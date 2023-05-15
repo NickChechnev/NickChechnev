@@ -4,6 +4,8 @@
 
 I am a self-taught iOS developer, enjoy coding both as a job and a hobby. Love the process of getting my head around coding problems and custom  solutions.
 
+![](https://thumbs.gfycat.com/FluffyBogusFox-size_restricted.gif)
+
 ---
 
 🔍 Looking for a job
