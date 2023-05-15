@@ -5,7 +5,9 @@
 I am a self-taught iOS developer, enjoy coding both as a job and a hobby. Love the process of getting my head around coding problems and custom  solutions.
 
 🔍 Looking for a job
+
 📝 Improving my skills on arhictecture patterns (MVVM\MVC\MVP) and planning to learn reactive programming and skills (SwiftUI + Combine\RXSwift)
+
 🧠 Solving LeetCode and Codewars problems daily
 
 ### 🛠 Languages and Tools
